@@ -1,0 +1,9 @@
+urlPath: /test/:carrier
+description: hello world
+request:
+  - fieldName: carrier
+    fieldIn: path
+  - fieldName: city
+    fieldIn: query
+profiles:
+  - duckdb
