@@ -5,5 +5,5 @@ logLevel: DEBUG
 auth:
   heimdallUrl: https://liberal-donkey.dataos.app/heimdall
 sources:
-  - name: cache
+  - name: duckdb
     type: duckdb
