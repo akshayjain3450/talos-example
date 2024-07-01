@@ -1,9 +1,9 @@
-name: my_project
-description: A talos app
+name: pg_lens
+description: A talos-lens app
 version: 0.0.1
+logLevel: DEBUG
 auth:
   heimdallUrl: https://liberal-donkey.dataos.app/heimdall
-logLevel: 'DEBUG'
 sources:
-  - name: duckdb
+  - name: cache
     type: duckdb
