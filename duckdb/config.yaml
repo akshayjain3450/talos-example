@@ -2,7 +2,7 @@ name: my_project
 description: A talos app
 version: 0.0.1
 heimdallUrl: https://liberal-donkey.dataos.app/heimdall
-logLevel: error
+logLevel: DEBUG
 profiles:
   - name: duckdb
     type: duckdb
