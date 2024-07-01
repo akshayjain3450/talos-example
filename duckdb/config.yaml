@@ -4,6 +4,6 @@ version: 0.0.1
 auth:
   heimdallUrl: https://liberal-donkey.dataos.app/heimdall
 logLevel: 'DEBUG'
-profiles:
+sources:
   - name: duckdb
     type: duckdb
