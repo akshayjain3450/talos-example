@@ -5,5 +5,5 @@ request:
     fieldIn: path
   - fieldName: city
     fieldIn: query
-profiles:
+sources:
   - duckdb
