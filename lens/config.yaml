@@ -7,4 +7,4 @@ logLevel: 'DEBUG'
 sources:
   - name: sales # profile name
     type: lens
-    lensName: 'public:sales-ops'
+    lensName: 'public:sales400-dev'
