@@ -5,5 +5,4 @@ request:
     fieldIn: path
   - fieldName: city
     fieldIn: query
-sources:
-  - duckdb
+source: duckdb

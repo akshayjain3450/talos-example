@@ -1,3 +1,2 @@
 urlPath: /flights
-sources:
-  - duckdb
+source: duckdb
