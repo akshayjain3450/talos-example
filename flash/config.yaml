@@ -1,0 +1,10 @@
+name: flash
+description: A talos-flash app
+version: 0.0.1
+auth:
+  heimdallUrl: https://liberal-donkey.dataos.app/heimdall
+logLevel: 'DEBUG'
+sources:
+  - name: flash # profile name
+    type: flash
+    flashName: 'public:flash-service'
