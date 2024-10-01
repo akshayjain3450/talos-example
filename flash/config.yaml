@@ -7,4 +7,4 @@ logLevel: 'DEBUG'
 sources:
   - name: flash # profile name
     type: flash
-    flashName: 'public:flash-service'
+    flashName: 'public:flash-test-6'
