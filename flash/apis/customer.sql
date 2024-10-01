@@ -1,1 +1,1 @@
-SELECT * FROM mycustomer LIMIT 20
+SELECT * FROM f_sales LIMIT 10
